@@ -510,8 +510,7 @@ transition: all 0.4s ease-in-out;
         row-gap: 24px;
         position: absolute;
         bottom: -550px;
-        width: 100%;
-       align-items: center;
+        align-items: center;
 
     }
 
@@ -659,7 +658,6 @@ transition: all 0.4s ease-in-out;
         row-gap: 24px;
         position: absolute;
         bottom: -1200px;
-        width: 100%;
         align-items: center;
 
     }
